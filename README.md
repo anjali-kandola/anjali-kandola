@@ -16,7 +16,7 @@ I am a backend developer and ML enthusiast <img src="https://media.giphy.com/med
 
 - :zap: In my free time, I solve problems on  Leetcode, CodeChef , GeeksforGeeks and read new innovative technology related articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ujjawal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-kandola-400481202/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-anjali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-kandola-400481202/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
