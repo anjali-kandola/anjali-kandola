@@ -18,6 +18,7 @@ I am a backend developer and ML enthusiast <img src="https://media.giphy.com/med
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-anjali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-kandola-400481202/)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjali-kandola" alt="anjali-kandola" /></a> </p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
